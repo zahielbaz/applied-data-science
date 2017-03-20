@@ -1,0 +1,69 @@
+Jose Portilla's Udemy course GitHub page - 
+https://github.com/jmportilla/Complete-Python-Bootcamp
+
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Introduction%20to%20Python%20Statements.ipynb
+
+Numbers
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Numbers.ipynb
+
+Comparison operators
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Comparison%20Operators.ipynb
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Chained%20Comparison%20Operators.ipynb
+
+Strings
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Strings.ipynb
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Advanced%20Strings.ipynb
+
+Print formatting
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Print%20Formatting.ipynb
+
+Lists
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Lists.ipynb
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Advanced%20Lists.ipynb
+
+Dictionaries
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Dictionaries.ipynb
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Advanced%20Dictionaries.ipynb
+
+Tuples
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Tuples.ipynb
+
+Sets and Booleans
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Sets%20and%20Booleans.ipynb
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Advanced%20Sets.ipynb
+
+If/else
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/If%2C%20elif%2C%20and%20else%20Statements.ipynb
+
+Loops
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/For%20Loops.ipynb
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/While%20loops.ipynb
+
+Range
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Range().ipynb
+
+Methods
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Methods.ipynb
+
+Functions
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Functions.ipynb
+
+Lambda expressions
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Lambda%20expressions.ipynb
+
+Map, Filter
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Map.ipynb
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Filter.ipynb
+
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/List%20Comprehensions.ipynb
+
+Modules
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Modules%20and%20Packages.ipynb
+
+OPTIONAL
+Reduce
+https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Reduce.ipynb
+
+
+
+Statements test - 
