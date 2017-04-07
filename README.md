@@ -46,7 +46,7 @@ You'll need to have an account on GitHub to use this course.
 
 Git allows you to manage your work in versions, thereby comparing versions, reverting to previous versions, pulling latest changes from the remote repo, and pushing your changes to the repo (e.g. for submitting your homework).  
 If you're not comfortable working with Git using the command line, I suggest you use the GitHub Desktop tool.
-You can view a video on setting up the repo locally [here](https://youtu.be/ywCaMLo2VLc). 
+You can view a video on setting up the repo locally [here](https://youtu.be/ywCaMLo2VLc) (apologies for the low sound quality). 
 
 ### Recommended resources for Git
 - [DataQuest Guide](https://www.dataquest.io/course/git-and-vcs)
